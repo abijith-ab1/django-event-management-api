@@ -154,19 +154,3 @@ Here are some example Postman requests:
     "date": "2024-08-01T10:00:00Z"
   }
   ```
-
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
-## Contributing
-
-Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
-
-## Contact
-
-For questions or support, please contact [your_email@example.com].
-
----
-
-Save this content as `README.md` in the root directory of your project. This README provides a comprehensive overview of your project, instructions on how to set it up, and details on how to use its various features.
